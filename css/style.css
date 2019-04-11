@@ -1,0 +1,122 @@
+/*index.html*/
+.my_contain a{
+	color:#479d44 !important;
+}
+.my_contain a:hover {
+	background:#f4F4F4 !important;color:transparent;outline:0;
+}
+
+.my_navbar{
+ 	margin:0 !important; 
+}
+
+.my_navbar a {
+	color:#479d44 !important;
+}
+
+.contain_option{
+  background-color:#f3f3f3;
+  text-align:center;
+  color:#479d44;
+  margin-right:0;
+  
+  }
+ .contain_option a{
+  	display:block;
+  	height:180px;
+	padding:50px;
+  }
+
+/*deposit_record.html&deposit_record.html*/
+.navbar-header div{
+	text-align:center;
+	padding-top: 20px;
+}
+.list-group{
+	margin:0 !important;
+}
+.list-group a{
+	margin-right:0 !important;
+}
+.list-group-item img{
+	margin-top:6px;
+}
+.list-group-item span{
+	margin-top: 10px;
+}
+.my_input{
+	text-align: center;
+	margin:10px !important;
+}
+
+/*sao,html*/
+.photo{
+	text-align:;
+	float:right !important;
+	margin-right:0 !important;
+}
+/*consume_detail.html*/
+.consume_det{
+	text-align: center;   
+	margin-top:20px !important;
+}
+.detail td:nth-child(1){
+	text-align: center;
+
+}
+/*deposit_detail.html*/
+.deposit_det{
+	text-align: center;   
+	margin-top:20px !important;
+}
+.deposit td:nth-child(1){
+	text-align: center;
+
+}
+/*deposit.html*/
+.input-group{
+	margin:20px !important;
+}
+.input-group input{
+	margin:20px;
+	border-top:0;
+	border-left:0;
+	border-right:0;
+	border-bottom:1px soild #ccc;
+	box-shadow: none;
+}
+.input-group input:focus{
+
+	border-top:0;
+	border-left:0;
+	border-right:0;
+	border-bottom:1px solid #479d44;
+	box-shadow: none;
+}
+.input-group-addon{
+	background:#fff !important;
+	border:none !important;
+	color:#479d44 !important;
+}
+.deposit_number{
+	margin:20px 0 0 20px;
+}
+.deposit_table th{
+	border:0 !important;
+	
+}
+.modal-body{
+	padding-right:0 !important;
+}
+.deposit_method{
+	padding: 0px 10px !important;
+}
+.deposit_method button{
+	margin:10px;
+}
+.deposit_method label{
+	margin:10px;
+}
+.deposit_btn{
+	margin:50px 0;
+}

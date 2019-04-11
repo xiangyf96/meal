@@ -1,0 +1,17 @@
+body{
+	background:#479d44 !important;
+}
+.two-bar-codes{
+	width:90%;
+	text-align: center;
+	margin:50px auto;
+	padding:10px 20px 5px;
+	background:#fff;
+	border-radius:5px;
+	}
+.my_navbar a{
+	color:#fff !important;
+	}
+.navbar-toggle span{
+	background:#fff !important;
+	}
